@@ -1,0 +1,2 @@
+==  CreateMicroposts: migrating ===============================================
+-- create_table(:microposts)
